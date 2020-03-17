@@ -1,0 +1,7 @@
+.col{
+	margin: 2px;
+}
+
+.btn btn-primary btn-lg disabled{
+	margin: 5px;
+}
