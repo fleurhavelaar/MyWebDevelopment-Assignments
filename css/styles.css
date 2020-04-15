@@ -26,6 +26,7 @@ h1 {
 .row {
 	color: white;
 	background-color: red;
+	
 }
 
 .carousel {
@@ -38,20 +39,9 @@ h1 {
 	margin-bottom: 20px;
 }
 
-.navbar {
-	color: white;
-	background-color: black;
-}
-
 .btn-outline-success {
  	color: red;
+	border-color: red;
 	
 }
-
-.my-sm-0 {
-	
-}
-
-
-
 
