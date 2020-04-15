@@ -42,6 +42,19 @@ h1 {
 .btn-outline-success {
  	color: red;
 	border-color: red;
-	
+}
+
+.album {
+	width: 800px;
+	height: auto;
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	margin-top: 20px;
+	margin-bottom: 20px;
+}
+
+.button {
+	background-color: #CE6871;
 }
 
