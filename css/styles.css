@@ -18,12 +18,14 @@ h1 {
 }
 
 .btn {
-	margin-left: 10px;
+	margin-left: 350px;
+	margin-right:350px;
 	margin-top: 10px;
 	margin-bottom: 10px;
+	display: block;
 }
 
-.row {
+.index {
 	color: white;
 	background-color: red;
 	
@@ -42,6 +44,25 @@ h1 {
 .btn-outline-success {
  	color: red;
 	border-color: red;
+	
+}
+
+.navbar {
+	background-color: black !important;
+}
+
+.navbar-brand {
+	color: white !important;
+}
+
+.nav-link {
+	color: white !important;
+	
+}
+
+.navbar-toggler-icon {
+	color: white !important;
+	background-color: white !important;
 }
 
 .album {
@@ -54,7 +75,67 @@ h1 {
 	margin-bottom: 20px;
 }
 
-.button {
-	background-color: #CE6871;
+
+.album-explanation {
+	color: white;
+	text-align: center;
+	
 }
 
+.button-follow {
+	margin: 10px;
+	background-color: red !important;
+	border-color: red !important;
+}
+
+.button-share {
+	margin: 10px;
+	background-color: #8E1B03 !important;
+	border-color: #8E1B03 !important;
+}
+
+.footer-home {
+	padding: 10px;
+	margin-top: 10px;
+	margin-bottom: 10px;
+}
+
+.follow {
+	background-color: red !important;
+	color: white !important;
+	border-color: red !important;
+	margin: 10px;
+}
+
+.share {
+	background-color: #8E1B03 !important;
+	color: white !important;
+	border-color:#8E1B03 !important;
+	margin: 10px;
+}
+
+.video {
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	margin-top: 20px;
+	margin-bottom: 20px;
+}
+
+.spotify {
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	margin-top: 20px;
+	margin-bottom: 20px;
+	width: 200px;
+}
+
+.album-column {
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	maring-top: 20px;
+	margin-bottom: 20px;
+	background-color: black !important;
+}
